@@ -1,2 +1,2 @@
 # My-first-mini-project
-This is my first mini project in usnig "HTML &amp; CSS"and using "Check-box" properties dhoe for action with hover effect.
+This is my first mini project in "HTML & CSS"and  "Check-box" properties using for  perform action with hover effect.
